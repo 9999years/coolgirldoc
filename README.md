@@ -22,6 +22,8 @@ Bonuses:
   hint, etc.)
 - Development tools to parse/introspect on docs; in particular, a language server to
   highlight, provide hover information, and preview docs would be super useful.  
+  - This wedges with my desire for a good markdown language server; things like
+    autoformatting, link completion, list renumbering, etc. would be really nice
 
 [katex]: https://katex.org/
 [rst-admonitions]: https://docutils.sourceforge.io/docs/ref/rst/directives.html#admonitions
