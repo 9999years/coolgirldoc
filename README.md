@@ -5,7 +5,7 @@
 A Python API documentation generator (for cool girls & their friends) written in Rust.
 
 Minimum viable product:
-- Use a super-speedy and ✨parallel✨ Rust CLI
+- A super-speedy and ✨parallel✨ Rust CLI
 - Write your docs in markdown
 - Link to items in intersphinx inventories
 
